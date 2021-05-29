@@ -19,6 +19,10 @@ Pre-requsites:
 
 Pithon3 and pip should be installed on the system.
 
+"pip install omdbapi"
+
+"pip install requests pprintpp"
+
 Requests and PPrint is also required which can be installed by pip.
 
 
