@@ -11,6 +11,9 @@ I have assigned "r" for the API key.
 
 When you successfully execute the program the console output will be the desired moviename details.
 
+Run "python3 odbm.py" to execute the program.
+
+
 Pre-requsites:
 ==============
 
