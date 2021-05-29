@@ -13,6 +13,8 @@ When you successfully execute the program the console output will be the desired
 
 Run "python3 odbm.py" to execute the program.
 
+A file omdb1.py has be added to specify a specific movie. Just run "python3 omdb1.py"
+
 
 Pre-requsites:
 ==============
