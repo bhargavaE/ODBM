@@ -1,5 +1,5 @@
 # ODBM
-odbm api call with python3.
+omdb api call with python3.
 
 This program will generate ODBMapi output on the commandline console.
 
