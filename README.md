@@ -19,5 +19,5 @@ Pithon3 and pip should be installed on the system.
 Requests and PPrint is also required which can be installed by pip.
 
 
-Commandline output of the program is uploaded as a screenshot.
+Commandline output of the program is uploaded as a screenshot. (https://github.com/bhargavaE/ODBM/blob/main/Screenshot%20from%202021-05-29%2015-40-35.png)
 
