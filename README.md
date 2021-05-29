@@ -11,3 +11,10 @@ I have assigned "r" for the API key.
 
 When you successfully execute the program the console output will be the desired moviename details.
 
+Pre-requsites:
+==============
+
+Pithon3 and pip should be installed on the system.
+
+Requests and PPrint is also required which can be installed by pip.
+
