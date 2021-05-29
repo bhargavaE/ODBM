@@ -1,7 +1,7 @@
 # ODBM
 odbm api call with python3.
 
-This program will generate ODBMapi outpot on the console.
+This program will generate ODBMapi output on the commandline console.
 
 API key has to be generated from the website at the first place.
 
